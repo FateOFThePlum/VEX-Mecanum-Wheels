@@ -10,4 +10,6 @@ Motor Setup: when looking down at the robot.
 3) Rear Left Wheel,
 4) Rear Right Wheel
 
-Motors Should Be Configured Such that when The program drives all the motors Foward the robot will move foward. 
+Motors Should Be Configured so that the robot will move forward when The program drives all the motors forward. eg Motor.spin(forward);
+
+The programs are not fool proof, they are meant to act as a starting point to learn these topics. 
